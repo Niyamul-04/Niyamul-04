@@ -74,19 +74,6 @@
 - 🌐 **Portfolio Website** → [Visit Here](YOUR_PORTFOLIO_LINK_HERE)    
 - 💡 **Open Source Contributions** → Active contributor in CSE & Web Dev communities  
 
-
-
-## 💌 Contact & Messaging  
-
-<div align="center">
-
-<a href="YOUR_CONTACT_LINK_HERE">
-<img src="https://img.shields.io/badge/💬%20Send%20Me%20a%20Message-00D9FF?style=for-the-badge&logo=maildotru&logoColor=white" />
-</a>
-
-</div>
-
-
 ## 🌐 Let’s Connect!  
 
 <div align="center">
