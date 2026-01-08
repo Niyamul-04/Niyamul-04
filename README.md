@@ -103,7 +103,7 @@
 
 ## 📂 Featured Projects
 
-- 🌐 **Personal Portfolio Website** → YOUR_PORTFOLIO_LINK_HERE  
+- 🌐 **Personal Portfolio Website** → https://niyamulhasan.netlify.app/ 
 - 💡 **Open Source Contributions** → Active contributor in CSE & Web Dev communities  
 
 ---
