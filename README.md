@@ -125,7 +125,7 @@
 </a>
 
 <a href="Loading">
-<img src="https://niyamulhasan.netlify.app/"/>
+<img src=https://niyamulhasan.netlify.app/ />
 </a>
 
 </div>
