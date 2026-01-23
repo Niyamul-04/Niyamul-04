@@ -52,28 +52,14 @@
 
 <div align="center">
 
-### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
-### 📚 Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
 
 </div>
 
----
-
-## 📊 Performance Analytics
-
-
 <div align="center">
 
-<img 
-  src="https://komarev.com/ghpvc/?username=Niyamul-04&label=Profile%20Views&style=for-the-badge&color=00D9FF" 
-/>
-
-<img 
-  src="https://img.shields.io/github/followers/Niyamul-04?label=Followers&style=for-the-badge&color=6A5ACD" 
-/>
 
 </div>
 
@@ -81,31 +67,13 @@
 
 <div align="center">
 
-<img 
-  height="180"
-  src="https://streak-stats.demolab.com?user=Niyamul-04&theme=tokyonight&hide_border=true"
-/>
-
 </div>
 
 <br/>
 
 <div align="center">
 
-<img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Niyamul-04&theme=tokyo-night&hide_border=true&area=true"
-  alt="Contribution Performance Graph"
-/>
-
 </div>
-
----
-
-## 📂 Featured Projects
-
-- 💡 **Open Source Contributions** → Active contributor in CSE & Web Dev communities  
-
----
 
 ## 🌐 Let’s Connect!
 
