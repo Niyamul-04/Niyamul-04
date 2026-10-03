@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Social MVP</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Social MVP</h1>
+
+    <section class="card">
+      <h2>Create / Login User</h2>
+      <div class="row">
+        <input id="username" placeholder="Username (a-zA-Z0-9_ 3-24)" />
+        <button id="loginBtn">Save User</button>
+      </div>
+      <p id="currentUser">No user selected</p>
+    </section>
+
+    <section class="card">
+      <h2>Create Post</h2>
+      <textarea id="postContent" maxlength="500" placeholder="Write something..."></textarea>
+      <button id="postBtn">Post</button>
+    </section>
+
+    <section class="card">
+      <div class="row between">
+        <h2>Feed</h2>
+        <button id="refreshBtn">Refresh</button>
+      </div>
+      <div id="feed"></div>
+    </section>
+  </main>
+
+  <template id="postTemplate">
+    <article class="post">
+      <p class="meta"></p>
+      <p class="content"></p>
+      <div class="actions"></div>
+      <div class="comments"></div>
+      <div class="row">
+        <input class="commentInput" placeholder="Write comment..." maxlength="300" />
+        <button class="commentBtn">Comment</button>
+      </div>
+    </article>
+  </template>
+
+  <script src="/app.js"></script>
+</body>
+</html>
