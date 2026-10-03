@@ -1,5 +1,6 @@
 const path = require('path');
 const express = require('express');
+const rateLimit = require('express-rate-limit');
 const db = require('./db');
 
 const app = express();
@@ -7,6 +8,17 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, '..', 'public')));
 
 const usernamePattern = /^[a-zA-Z0-9_]{3,24}$/;
+
+
+const apiLimiter = rateLimit({
+  windowMs: 15 * 60 * 1000,
+  limit: 120,
+  standardHeaders: 'draft-8',
+  legacyHeaders: false,
+  message: { error: 'Too many requests. Please try again later.' }
+});
+
+app.use('/api', apiLimiter);
 
 function cleanText(input, maxLength) {
   if (typeof input !== 'string') return null;
