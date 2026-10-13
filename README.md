@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Niyamul-04">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Science+%26+Engineering+Student+%F0%9F%8E%93;Problem+Solver+%26+Competitive+Programmer+%E2%9A%A1;Full-Stack+Web+Developer+%F0%9F%92%BB;Data+Structures+%26+Algorithms+Enthusiast+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F;Lifelong+Learner+in+Tech+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student+%F0%9F%8E%93;Problem+Solver+%26+Competitive+Programmer+%E2%9A%A1;Full-Stack+Web+Developer+%F0%9F%92%BB;Data+Structures+%26+Algorithms+Enthusiast+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F;Lifelong+Learner+in+Tech+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -29,7 +29,7 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://niyamulhasan.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Website-Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
     </a>
   </p>
 
@@ -39,21 +39,30 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" height="230" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding GIF" />
-
-- 🎓 **Education:** B.Sc. in Computer Science & Engineering — **University of Liberal Arts Bangladesh (ULAB)** *(2024–Present)*
-- 📍 **Location:** Dhaka, Bangladesh
-- 🎯 **Current Focus:** Strengthening **Data Structures & Algorithms (DSA)** and building **scalable full-stack web applications**
-- 🤝 **Community:** Active member of **ULAB Computer Programming Club (UCPC)**
-- 💼 **Status:** Open to **Internships**, **Open-Source Collaborations**, and **Junior Developer Roles**
-- 💡 **Philosophy:** *"Passionate about solving real-world challenges through clean, maintainable, and efficient code."*
+<table>
+  <tr>
+    <td valign="top" width="65%">
+      <ul>
+        <li>🎓 <b>Education:</b> B.Sc. in Computer Science & Engineering — <b>University of Liberal Arts Bangladesh (ULAB)</b> <i>(2024–Present)</i></li>
+        <li>📍 <b>Location:</b> Dhaka, Bangladesh</li>
+        <li>🎯 <b>Current Focus:</b> Strengthening <b>Data Structures & Algorithms (DSA)</b> & building <b>scalable full-stack web applications</b></li>
+        <li>🤝 <b>Community:</b> Active member of <b>ULAB Computer Programming Club (UCPC)</b></li>
+        <li>💼 <b>Status:</b> Open to <b>Internships</b>, <b>Open-Source Collaborations</b>, and <b>Junior Developer Roles</b></li>
+        <li>💡 <b>Philosophy:</b> <i>"Solving real-world challenges through clean, maintainable, and efficient code."</i></li>
+      </ul>
+    </td>
+    <td valign="middle" align="center" width="35%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Interests & Passions
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=Full-Stack+Web+Development;Data+Structures+%26+Algorithms+(DSA);Cloud+Computing+%7C+AWS+%7C+Azure;Artificial+Intelligence+%26+Machine+Learning;Cybersecurity+%26+Ethical+Hacking;Open+Source+Contributions;System+Design+%26+Competitive+Programming" alt="Interests Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Development;Data+Structures+%26+Algorithms+(DSA);Cloud+Computing+%7C+AWS+%7C+Azure;Artificial+Intelligence+%26+Machine+Learning;Cybersecurity+%26+Ethical+Hacking;Open+Source+Contributions;System+Design+%26+Competitive+Programming" alt="Interests Typing" />
 </div>
 
 ---
@@ -61,50 +70,44 @@
 ## 🛠️ Tech Stack & Skills
 
 ### 💻 Programming Languages
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" alt="Languages" />
-</div>
-
-<br/>
+</p>
 
 ### 🌐 Frontend & UI Design
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma&theme=dark" alt="Frontend" />
-</div>
-
-<br/>
+</p>
 
 ### ⚙️ Backend, Databases & Tools
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,postman,netlify,vercel&theme=dark" alt="Backend & Tools" />
-</div>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <!-- GitHub Overall Stats -->
-  <a href="https://github.com/Niyamul-04">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=Niyamul-04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=0ea5e9" alt="GitHub Stats" />
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niyamul-04&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF" alt="Top Languages" />
-  </a>
-</div>
+  <table border="0">
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Niyamul-04">
+          <img height="175" src="https://github-readme-stats.vercel.app/api?username=Niyamul-04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=0ea5e9" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Niyamul-04">
+          <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niyamul-04&layout=compact&theme=tokyonight&hide_border=true&title_color=00D9FF" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
-<div align="center">
-  <!-- GitHub Streak Stats -->
+  <br/>
+
   <a href="https://github.com/Niyamul-04">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niyamul-04&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=0ea5e9" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/Niyamul-04">
-    <img src="https://github-profile-trophy.vercel.app/?username=Niyamul-04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -135,7 +138,7 @@
 ## 🌐 Let's Connect!
 
 <div align="center">
- <p>Feel free to reach out with any questions, project ideas, or requests for assistance!</p>
+  <p>যেকোনো প্রশ্ন, প্রজেক্ট আইডিয়া বা সহযোগিতার জন্য নির্দ্বিধায় যোগাযোগ করতে পারেন!</p>
 
   <a href="https://github.com/Niyamul-04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Niyamul--04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -150,7 +153,7 @@
   </a>
   &nbsp;
   <a href="https://niyamulhasan.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Website-Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Website-Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
