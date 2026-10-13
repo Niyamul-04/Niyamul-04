@@ -10,13 +10,6 @@
 
   <br/>
 
-  <!-- Profile Badges & Counter -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Niyamul-04&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Education-ULAB%20CSE-8b5cf6?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Education" />
-    <img src="https://img.shields.io/badge/Status-Actively%20Learning%20%26%20Building-success?style=for-the-badge" alt="Status" />
-  </p>
-
 </div>
 
 ---
