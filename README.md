@@ -135,7 +135,7 @@
 ## 🌐 Let's Connect!
 
 <div align="center">
-  <p>যেকোনো প্রশ্ন, প্রজেক্ট আইডিয়া বা সহযোগিতার জন্য নির্দ্বিধায় যোগাযোগ করতে পারেন!</p>
+ <p>Feel free to reach out with any questions, project ideas, or requests for assistance!</p>
 
   <a href="https://github.com/Niyamul-04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Niyamul--04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
