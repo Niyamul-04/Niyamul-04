@@ -7,15 +7,9 @@
   <a href="https://github.com/Niyamul-04">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Computer+Science+%26+Engineering+Student+%F0%9F%8E%93;Problem+Solver+%26+Competitive+Programmer+%E2%9A%A1;Full-Stack+Web+Developer+%F0%9F%92%BB;Data+Structures+%26+Algorithms+Enthusiast+%F0%9F%94%A7;Open+Source+Contributor+%F0%9F%8C%9F;Lifelong+Learner+in+Tech+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-
-  <br/>
-
 </div>
 
----
-
-## 👨‍💻 About Me
-
+👨‍💻 About Me
 <table>
   <tr>
     <td valign="top" width="65%">
@@ -34,37 +28,37 @@
   </tr>
 </table>
 
----
+🪐 My Tech Orbit
+<p align="center">
+  <img src="niyamul-tech-orbit.svg" alt="Animated orbit of Niyamul Hasan's technology stack" width="100%" />
+</p>
 
-## 🚀 Interests & Passions
+<p align="center">
+  <i>Three orbiting layers of technologies I use and learn — with my GitHub profile at the center.</i>
+</p>
 
+🚀 Interests & Passions
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Development;Data+Structures+%26+Algorithms+(DSA);Cloud+Computing+%7C+AWS+%7C+Azure;Artificial+Intelligence+%26+Machine+Learning;Cybersecurity+%26+Ethical+Hacking;Open+Source+Contributions;System+Design+%26+Competitive+Programming" alt="Interests Typing" />
 </div>
 
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
+🛠️ Tech Stack & Skills
+💻 Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" alt="Languages" />
 </p>
 
-### 🌐 Frontend & UI Design
+🌐 Frontend & UI Design
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,figma&theme=dark" alt="Frontend" />
 </p>
 
-### ⚙️ Backend, Databases & Tools
+⚙️ Backend, Databases & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,git,github,vscode,postman,netlify,vercel&theme=dark" alt="Backend & Tools" />
 </p>
 
----
-
-## 📊 GitHub Analytics & Activity
-
+📊 GitHub Analytics & Activity
 <div align="center">
   <table border="0">
     <tr>
@@ -80,28 +74,19 @@
       </td>
     </tr>
   </table>
-
   <br/>
-
   <a href="https://github.com/Niyamul-04">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niyamul-04&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=0ea5e9" alt="GitHub Streak" />
   </a>
 </div>
 
----
-
-## 🎯 Future Goals & Milestones
-
-- [ ] 🚀 Build & deploy **5+ scalable, production-ready full-stack applications**
-- [ ] 📚 Master **Advanced DSA** and actively participate in **ICPC / National Contests**
-- [ ] 🌟 Make meaningful contributions to **major open-source repositories**
-- [ ] ✍️ Launch a **tech blog** sharing programming tutorials and project walkthroughs
-- [ ] ☁️ Gain hands-on expertise in **Cloud Architecture (AWS / GCP)** and **AI Integration**
-
----
-
-## 🐍 GitHub Contribution Snake
-
+🎯 Future Goals & Milestones
+- [ ] 🚀 Build & deploy 5+ scalable, production-ready full-stack applications
+- [ ] 📚 Master Advanced DSA and actively participate in ICPC / National Contests
+- [ ] 🌟 Make meaningful contributions to major open-source repositories
+- [ ] ✍️ Launch a tech blog sharing programming tutorials and project walkthroughs
+- [ ] ☁️ Gain hands-on expertise in Cloud Architecture (AWS / GCP) and AI Integration
+🐍 GitHub Contribution Snake
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Niyamul-04/Niyamul-04/output/github-contribution-grid-snake-dark.svg">
@@ -110,12 +95,9 @@
   </picture>
 </div>
 
----
-
-## 🌐 Let's Connect!
-
+🌐 Let's Connect!
 <div align="center">
- <p>Feel free to reach out with any questions, project ideas, or requests for assistance!</p>
+  <p>Feel free to reach out with any questions, project ideas, or requests for assistance!</p>
 
   <a href="https://github.com/Niyamul-04" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Niyamul--04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -129,12 +111,11 @@
     <img src="https://img.shields.io/badge/Email-Send_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://niyamulhasan.netlify.app" target="_blank">
+  <a href="https://niyamulhasan.netlify.app">
     <img src="https://img.shields.io/badge/Website-Portfolio-0ea5e9?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
-<br/>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00D9FF&height=130&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=75" alt="Footer Banner" />
